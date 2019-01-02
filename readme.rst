@@ -31,6 +31,4 @@ Fitur Fitur Aplikasi
 	 -MELIHAT STATUS PESANAN
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`
+<https://www.youtube.com/watch?v=j2RU8aI_nRs&list=PLjCsQGDzSNNta3EAQ_r-eB6k-Wux3HoqL>`
